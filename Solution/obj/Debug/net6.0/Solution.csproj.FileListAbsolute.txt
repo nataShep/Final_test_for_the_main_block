@@ -1,0 +1,15 @@
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/bin/Debug/net6.0/Solution
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/bin/Debug/net6.0/Solution.deps.json
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/bin/Debug/net6.0/Solution.runtimeconfig.json
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/bin/Debug/net6.0/Solution.dll
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/bin/Debug/net6.0/Solution.pdb
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/obj/Debug/net6.0/Solution.csproj.AssemblyReference.cache
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/obj/Debug/net6.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/obj/Debug/net6.0/Solution.AssemblyInfoInputs.cache
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/obj/Debug/net6.0/Solution.AssemblyInfo.cs
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/obj/Debug/net6.0/Solution.csproj.CoreCompileInputs.cache
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/obj/Debug/net6.0/Solution.dll
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/obj/Debug/net6.0/refint/Solution.dll
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/obj/Debug/net6.0/Solution.pdb
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/obj/Debug/net6.0/Solution.genruntimeconfig.cache
+/Users/natusa/Desktop/Final_test_for_main_blok/Solution/obj/Debug/net6.0/ref/Solution.dll
